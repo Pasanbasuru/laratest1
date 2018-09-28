@@ -77,7 +77,7 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md" style="color: red;">
+                <div class="title m-b-md" style="color: blue;">
                     Bassa
                 </div>
 
